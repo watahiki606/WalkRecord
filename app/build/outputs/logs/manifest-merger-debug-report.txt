@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\cdb6691251640b8c3f183d814070c7d4\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\b0b66260001f819fb7e32a152b960ff1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\cc34dc8effcec6f65bec69c222bb091f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\7ccdb766f97f133940a313998f7ae925\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\a52612aa773339893f473ec63bc7839d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\a9b2191d6210fc50814363f6d5c95920\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\0110db19892746d178206b58444ff07e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c02e83402d414a0b2828af1b94a47faf\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b10b87acd975b6645291c16c58faaa71\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\937328246d74b0188db1e6aa7c728693\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\566cf1c1daf200abdb0f78da6743ed4c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9313fe2ed8b78f3f1d86e0a96c751f9c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\918f9c89a28e0e58a257cbf1ec62c146\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\937216c739bd4c0bff071f03e83b3fea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\631a5679e83de392acb507d9c3bb2399\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\903ef2af8f3577ec539779668b52dc48\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\2135661f5b85f7b19c8dac061fed7987\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\c203a508cf79cdb683b38dd122120c7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\46b29764d70682db9a6621b376ed6fd2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\d087ab77f842a7178165f026d4838795\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\e3e330411cb9799d32913ad7dac5cb82\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\eaaeef4e97530086e1d325dae4e0b6d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\ad77f6439a1b576c67601ca8ee0b8e72\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\cad2da6c2a551f81f7d9bff83801ce70\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\ba5a553c7c3451c6adbd3c10f84890bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\dbd87a8cf5fe17b94359581139e4c629\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe48b091fd4438c8c58fcc5233479a15\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\2f92e0b8fd3c84be12d67988d958e0e2\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\451c0111b4489e484e76a2d6f5e0ffcb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8de91944571025f7b81e411bd7c9b031\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\e96819f20c7a556a828cfdf9bc3e7489\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\57ae02ef8b92e56f0508ce9326623248\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\63ae5fd326059bc76b0dcf53b3142ac4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\466e809bf836a5bc6e30a48c9c995df9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\10828a7822a71e77554a92785df9ca1f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:5:5-35:19
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\cdb6691251640b8c3f183d814070c7d4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\cdb6691251640b8c3f183d814070c7d4\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\cc34dc8effcec6f65bec69c222bb091f\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\cc34dc8effcec6f65bec69c222bb091f\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c02e83402d414a0b2828af1b94a47faf\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c02e83402d414a0b2828af1b94a47faf\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b10b87acd975b6645291c16c58faaa71\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b10b87acd975b6645291c16c58faaa71\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\937328246d74b0188db1e6aa7c728693\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\937328246d74b0188db1e6aa7c728693\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\566cf1c1daf200abdb0f78da6743ed4c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\566cf1c1daf200abdb0f78da6743ed4c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9313fe2ed8b78f3f1d86e0a96c751f9c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9313fe2ed8b78f3f1d86e0a96c751f9c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\cad2da6c2a551f81f7d9bff83801ce70\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\cad2da6c2a551f81f7d9bff83801ce70\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\2f92e0b8fd3c84be12d67988d958e0e2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\2f92e0b8fd3c84be12d67988d958e0e2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\cad2da6c2a551f81f7d9bff83801ce70\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:11:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:12:9-14:55
+	android:value
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:14:13-52
+	android:name
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:13:13-58
+activity#jp.co.azz.maps.MainActivity
+ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:23:27-74
+activity#jp.co.azz.maps.WalkHistoryActivity
+ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:26:9-28:57
+	android:label
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:27:13-48
+activity#jp.co.azz.maps.CalorieCalculationActivity
+ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:29:9-31:57
+	android:label
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:30:13-55
+activity#jp.co.azz.maps.SettingActivity
+ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:32:9-34:57
+	android:label
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml:33:13-44
+uses-sdk
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\cdb6691251640b8c3f183d814070c7d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\design-28.0.0-alpha3.aar\cdb6691251640b8c3f183d814070c7d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\b0b66260001f819fb7e32a152b960ff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha3.aar\b0b66260001f819fb7e32a152b960ff1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\cc34dc8effcec6f65bec69c222bb091f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\cc34dc8effcec6f65bec69c222bb091f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\7ccdb766f97f133940a313998f7ae925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha3.aar\7ccdb766f97f133940a313998f7ae925\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\a52612aa773339893f473ec63bc7839d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha3.aar\a52612aa773339893f473ec63bc7839d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\a9b2191d6210fc50814363f6d5c95920\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\transition-28.0.0-alpha3.aar\a9b2191d6210fc50814363f6d5c95920\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\0110db19892746d178206b58444ff07e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0-alpha3.aar\0110db19892746d178206b58444ff07e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c02e83402d414a0b2828af1b94a47faf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c02e83402d414a0b2828af1b94a47faf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b10b87acd975b6645291c16c58faaa71\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\b10b87acd975b6645291c16c58faaa71\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\937328246d74b0188db1e6aa7c728693\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\937328246d74b0188db1e6aa7c728693\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\566cf1c1daf200abdb0f78da6743ed4c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\566cf1c1daf200abdb0f78da6743ed4c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9313fe2ed8b78f3f1d86e0a96c751f9c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9313fe2ed8b78f3f1d86e0a96c751f9c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\918f9c89a28e0e58a257cbf1ec62c146\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha3.aar\918f9c89a28e0e58a257cbf1ec62c146\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\937216c739bd4c0bff071f03e83b3fea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha3.aar\937216c739bd4c0bff071f03e83b3fea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\631a5679e83de392acb507d9c3bb2399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha3.aar\631a5679e83de392acb507d9c3bb2399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\903ef2af8f3577ec539779668b52dc48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha3.aar\903ef2af8f3577ec539779668b52dc48\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\2135661f5b85f7b19c8dac061fed7987\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha3.aar\2135661f5b85f7b19c8dac061fed7987\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\c203a508cf79cdb683b38dd122120c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha3.aar\c203a508cf79cdb683b38dd122120c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\46b29764d70682db9a6621b376ed6fd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha3.aar\46b29764d70682db9a6621b376ed6fd2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\d087ab77f842a7178165f026d4838795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha3.aar\d087ab77f842a7178165f026d4838795\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\e3e330411cb9799d32913ad7dac5cb82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha3.aar\e3e330411cb9799d32913ad7dac5cb82\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\eaaeef4e97530086e1d325dae4e0b6d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha3.aar\eaaeef4e97530086e1d325dae4e0b6d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\ad77f6439a1b576c67601ca8ee0b8e72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha3.aar\ad77f6439a1b576c67601ca8ee0b8e72\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\cad2da6c2a551f81f7d9bff83801ce70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha3.aar\cad2da6c2a551f81f7d9bff83801ce70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\ba5a553c7c3451c6adbd3c10f84890bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha3.aar\ba5a553c7c3451c6adbd3c10f84890bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\dbd87a8cf5fe17b94359581139e4c629\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha3.aar\dbd87a8cf5fe17b94359581139e4c629\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe48b091fd4438c8c58fcc5233479a15\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\fe48b091fd4438c8c58fcc5233479a15\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\2f92e0b8fd3c84be12d67988d958e0e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-alpha3.aar\2f92e0b8fd3c84be12d67988d958e0e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\451c0111b4489e484e76a2d6f5e0ffcb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\451c0111b4489e484e76a2d6f5e0ffcb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8de91944571025f7b81e411bd7c9b031\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\8de91944571025f7b81e411bd7c9b031\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\e96819f20c7a556a828cfdf9bc3e7489\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha3.aar\e96819f20c7a556a828cfdf9bc3e7489\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\57ae02ef8b92e56f0508ce9326623248\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha3.aar\57ae02ef8b92e56f0508ce9326623248\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\63ae5fd326059bc76b0dcf53b3142ac4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha3.aar\63ae5fd326059bc76b0dcf53b3142ac4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\466e809bf836a5bc6e30a48c9c995df9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\466e809bf836a5bc6e30a48c9c995df9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\10828a7822a71e77554a92785df9ca1f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha3.aar\10828a7822a71e77554a92785df9ca1f\AndroidManifest.xml:20:5-44
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\566cf1c1daf200abdb0f78da6743ed4c\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+		ADDED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+		INJECTED from C:\dev\app\maps\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\b8b75a824bbe9cb2eed7f658a749854b\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c02e83402d414a0b2828af1b94a47faf\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c02e83402d414a0b2828af1b94a47faf\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c02e83402d414a0b2828af1b94a47faf\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\c02e83402d414a0b2828af1b94a47faf\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\937328246d74b0188db1e6aa7c728693\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\937328246d74b0188db1e6aa7c728693\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\937328246d74b0188db1e6aa7c728693\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\566cf1c1daf200abdb0f78da6743ed4c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9313fe2ed8b78f3f1d86e0a96c751f9c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\9313fe2ed8b78f3f1d86e0a96c751f9c\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\566cf1c1daf200abdb0f78da6743ed4c\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Ryota\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\566cf1c1daf200abdb0f78da6743ed4c\AndroidManifest.xml:27:13-51
